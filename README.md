@@ -9,3 +9,4 @@ telebot,
 brawlstats.
 
 
+## Disclaimer: This is new version for actual version of Brawl Stars. My old code: https://github.com/Yrashka2024/Brawl-Stars-Profile-bot
